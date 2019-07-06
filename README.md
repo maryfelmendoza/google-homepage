@@ -1,0 +1,1 @@
+This is Maryfel's google-home project, practicing my skills in git.
